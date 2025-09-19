@@ -4,4 +4,4 @@ import platform
 systeminfo = platform.uname()
 print (systeminfo)
 
-print("HI")
+print("pls work")
